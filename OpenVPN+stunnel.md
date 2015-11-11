@@ -5,7 +5,7 @@
 <malzaharguo@gmail.com>
 
 
-![](http://img4.imgtn.bdimg.com/it/u=1801838307,3746143499&fm=21&gp=0.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_q_6Ej3KV-aDbQyiAPv2dCt17agPLwm0zoB5JqhGb5j4SDKVXQ)
 
 我准备了一台香港的云主机用来作为openVPN的服务端，然后在公司的机房搞了一台linux的服务器作为客户端网关。系统版本都是CentOS 6.5_64bit。
 
@@ -252,5 +252,5 @@ ip route add 103.245.222.0/255.255.255.0 via 10.8.20.1
 ```
 
 有闲人们随意刷个脚本就好。
-关于 *DNSmasq* 的配置问题，上网找去吧！ ![hoho](http://t10.baidu.com/it/u=2104728270,3839818969&fm=56)
+关于 *DNSmasq* 的配置问题，上网找去吧！ ![hoho](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aMBikC_vqHC0q1FrT5Cg9ESJrhJRscFqpY6ckThZpoer3sWrfA)
 
